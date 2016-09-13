@@ -1,0 +1,7 @@
+body {margin:0;padding:0;background:#f4e0ab url(../image/bg2.png) top repeat-x;font-family:"Microsoft YaHei",arial;}
+.wrapper {width:1440px;height:900px;margin:0 auto;background:url(../image/bg1.jpg) no-repeat top center;}
+.linklist {width:842px;margin:0 auto;}
+.linklist ul {margin:0;padding:0;overflow:hidden;background:url(../image/bg3.png);border:1px solid #DCDCDC;border-width:0 0 1px 1px;}
+.linklist li {list-style:none;float:left;width:139px;height:40px;line-height:40px;text-indent:1em;border:1px solid #DCDCDC;border-width:1px 1px 0 0;}
+.linklist a {color:#333;text-decoration:none;display:block;}
+.linklist a:hover {background: #d6f5ff;}
