@@ -5,7 +5,7 @@ body {margin:0;padding:0;background:#f4e0ab url(../image/bg2.png) top repeat-x;f
 .linklist li {list-style:none;float:left;width:139px;height:40px;line-height:40px;text-indent:1em;border:1px solid #DCDCDC;border-width:1px 1px 0 0;}
 .linklist a {color:#333;text-decoration:none;display:block;}
 .linklist a:hover {background: #d6f5ff;}
-.weather {width:720px;margin:0 auto;padding: 40px 0;}
+.weather {width:720px;height:98px;margin:0 auto;padding: 40px 0;}
 .input-txt {width:408px;height:22px;line-height:22px;font-size:16px;}
 .search-btn {width:82px;height:32px;cursor:pointer;}
 .search {width:530px;margin:0 auto;padding:0 0 60px 0;}
