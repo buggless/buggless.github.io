@@ -5088,6 +5088,7 @@ var rules = [
   "||quitccp.org",
   ".quitccp.org",
   ".quora.com/Chinas-Future",
+  ".quora.com",
   ".quran.com",
   "|http://quran.com",
   ".quranexplorer.com",
